@@ -1,0 +1,14 @@
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Basic Syntax, Conditional Statements and Loops - Exercise\6StrongNu\bin\Debug\net8.0\6StrongNu.exe
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Basic Syntax, Conditional Statements and Loops - Exercise\6StrongNu\bin\Debug\net8.0\6StrongNu.deps.json
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Basic Syntax, Conditional Statements and Loops - Exercise\6StrongNu\bin\Debug\net8.0\6StrongNu.runtimeconfig.json
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Basic Syntax, Conditional Statements and Loops - Exercise\6StrongNu\bin\Debug\net8.0\6StrongNu.dll
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Basic Syntax, Conditional Statements and Loops - Exercise\6StrongNu\bin\Debug\net8.0\6StrongNu.pdb
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Basic Syntax, Conditional Statements and Loops - Exercise\6StrongNu\obj\Debug\net8.0\6StrongNu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Basic Syntax, Conditional Statements and Loops - Exercise\6StrongNu\obj\Debug\net8.0\6StrongNu.AssemblyInfoInputs.cache
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Basic Syntax, Conditional Statements and Loops - Exercise\6StrongNu\obj\Debug\net8.0\6StrongNu.AssemblyInfo.cs
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Basic Syntax, Conditional Statements and Loops - Exercise\6StrongNu\obj\Debug\net8.0\6StrongNu.csproj.CoreCompileInputs.cache
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Basic Syntax, Conditional Statements and Loops - Exercise\6StrongNu\obj\Debug\net8.0\6StrongNu.dll
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Basic Syntax, Conditional Statements and Loops - Exercise\6StrongNu\obj\Debug\net8.0\refint\6StrongNu.dll
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Basic Syntax, Conditional Statements and Loops - Exercise\6StrongNu\obj\Debug\net8.0\6StrongNu.pdb
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Basic Syntax, Conditional Statements and Loops - Exercise\6StrongNu\obj\Debug\net8.0\6StrongNu.genruntimeconfig.cache
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Basic Syntax, Conditional Statements and Loops - Exercise\6StrongNu\obj\Debug\net8.0\ref\6StrongNu.dll
