@@ -1,0 +1,14 @@
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Basic Syntax, Conditional Statements and Loops - Exercise\2Division\bin\Debug\net8.0\2Division.exe
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Basic Syntax, Conditional Statements and Loops - Exercise\2Division\bin\Debug\net8.0\2Division.deps.json
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Basic Syntax, Conditional Statements and Loops - Exercise\2Division\bin\Debug\net8.0\2Division.runtimeconfig.json
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Basic Syntax, Conditional Statements and Loops - Exercise\2Division\bin\Debug\net8.0\2Division.dll
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Basic Syntax, Conditional Statements and Loops - Exercise\2Division\bin\Debug\net8.0\2Division.pdb
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Basic Syntax, Conditional Statements and Loops - Exercise\2Division\obj\Debug\net8.0\2Division.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Basic Syntax, Conditional Statements and Loops - Exercise\2Division\obj\Debug\net8.0\2Division.AssemblyInfoInputs.cache
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Basic Syntax, Conditional Statements and Loops - Exercise\2Division\obj\Debug\net8.0\2Division.AssemblyInfo.cs
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Basic Syntax, Conditional Statements and Loops - Exercise\2Division\obj\Debug\net8.0\2Division.csproj.CoreCompileInputs.cache
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Basic Syntax, Conditional Statements and Loops - Exercise\2Division\obj\Debug\net8.0\2Division.dll
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Basic Syntax, Conditional Statements and Loops - Exercise\2Division\obj\Debug\net8.0\refint\2Division.dll
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Basic Syntax, Conditional Statements and Loops - Exercise\2Division\obj\Debug\net8.0\2Division.pdb
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Basic Syntax, Conditional Statements and Loops - Exercise\2Division\obj\Debug\net8.0\2Division.genruntimeconfig.cache
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Basic Syntax, Conditional Statements and Loops - Exercise\2Division\obj\Debug\net8.0\ref\2Division.dll
