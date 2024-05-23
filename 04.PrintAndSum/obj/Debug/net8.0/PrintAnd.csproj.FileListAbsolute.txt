@@ -1,0 +1,14 @@
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Basic Syntax, Conditional Statements and Loops - Exercise\PrintAnd\bin\Debug\net8.0\PrintAnd.exe
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Basic Syntax, Conditional Statements and Loops - Exercise\PrintAnd\bin\Debug\net8.0\PrintAnd.deps.json
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Basic Syntax, Conditional Statements and Loops - Exercise\PrintAnd\bin\Debug\net8.0\PrintAnd.runtimeconfig.json
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Basic Syntax, Conditional Statements and Loops - Exercise\PrintAnd\bin\Debug\net8.0\PrintAnd.dll
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Basic Syntax, Conditional Statements and Loops - Exercise\PrintAnd\bin\Debug\net8.0\PrintAnd.pdb
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Basic Syntax, Conditional Statements and Loops - Exercise\PrintAnd\obj\Debug\net8.0\PrintAnd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Basic Syntax, Conditional Statements and Loops - Exercise\PrintAnd\obj\Debug\net8.0\PrintAnd.AssemblyInfoInputs.cache
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Basic Syntax, Conditional Statements and Loops - Exercise\PrintAnd\obj\Debug\net8.0\PrintAnd.AssemblyInfo.cs
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Basic Syntax, Conditional Statements and Loops - Exercise\PrintAnd\obj\Debug\net8.0\PrintAnd.csproj.CoreCompileInputs.cache
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Basic Syntax, Conditional Statements and Loops - Exercise\PrintAnd\obj\Debug\net8.0\PrintAnd.dll
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Basic Syntax, Conditional Statements and Loops - Exercise\PrintAnd\obj\Debug\net8.0\refint\PrintAnd.dll
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Basic Syntax, Conditional Statements and Loops - Exercise\PrintAnd\obj\Debug\net8.0\PrintAnd.pdb
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Basic Syntax, Conditional Statements and Loops - Exercise\PrintAnd\obj\Debug\net8.0\PrintAnd.genruntimeconfig.cache
+C:\Users\lubak\Desktop\Programming Fundamentals with C#\Basic Syntax, Conditional Statements and Loops - Exercise\PrintAnd\obj\Debug\net8.0\ref\PrintAnd.dll
